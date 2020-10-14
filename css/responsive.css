@@ -109,6 +109,8 @@
   .about-image {
     width: 150px;
     height: 150px;
+    background: url('../images/myimage.sp.jpeg') no-repeat center center;
+    background-size: cover;
     margin: 0 auto;
   }
   .about-content {
