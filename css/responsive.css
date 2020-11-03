@@ -221,7 +221,7 @@
     transition: transform .15s;
     transform-origin: center center;
   }  
-  .portfolio-intermediate {
+  .portfolio-image-intermediate {
     background: url('../images/XD中級画像.sp.png') no-repeat center center;
     background-size: cover;
     width: 100%;
