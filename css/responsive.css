@@ -205,14 +205,6 @@
     transition: transform .15s, opacity .15s;
     transform-origin: center center;
   }
-  .portfolio-image-single {
-    background: url('../images/ポーフォリシングルページ1.sp.png') no-repeat center center;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    transition: transform .15s;
-    transform-origin: center center;
-  }
   .portfolio-image-medical {
     background: url('../images/note.beginner.ex.sp.png') no-repeat center center;
     background-size: cover;
@@ -223,6 +215,14 @@
   }  
   .portfolio-image-intermediate {
     background: url('../images/XD中級画像.sp.png') no-repeat center center;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    transition: transform .15s;
+    transform-origin: center center;
+  }  
+  .portfolio-image_note-kadan {
+    background: url('../images/note.kadan.png') no-repeat center center;
     background-size: cover;
     width: 100%;
     height: 100%;
